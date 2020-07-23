@@ -1,3 +1,3 @@
 # ML_Model
 
-human activity recognition system.
+human activity recognition system. #HAR
